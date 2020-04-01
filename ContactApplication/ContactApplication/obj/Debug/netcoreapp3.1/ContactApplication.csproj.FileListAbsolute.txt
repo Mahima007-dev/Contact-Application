@@ -1,0 +1,477 @@
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.exe
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.deps.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.runtimeconfig.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.runtimeconfig.dev.json
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.pdb
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.Views.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfoInputs.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfo.cs
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.Manifest.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.xml
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.pdb
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.genruntimeconfig.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csproj.CopyComplete
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.Views.pdb
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cs
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.input.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.output.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorCoreGenerate.cache
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.Views.pdb
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Alok Gupta\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csprojAssemblyReference.cache
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.exe
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.deps.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.runtimeconfig.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.runtimeconfig.dev.json
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.pdb
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.Views.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.Views.pdb
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csprojAssemblyReference.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cs
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfoInputs.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfo.cs
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.input.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.output.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorCoreGenerate.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cs
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.Views.pdb
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csproj.CopyComplete
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.Manifest.cache
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.xml
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.dll
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.pdb
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.genruntimeconfig.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ContactApplication.exe
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csprojAssemblyReference.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorAssemblyInfo.cs
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfoInputs.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.AssemblyInfo.cs
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.input.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.TagHelpers.output.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorCoreGenerate.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.Views.pdb
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.csproj.CopyComplete
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.Manifest.cache
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\staticwebassets\ContactApplication.StaticWebAssets.xml
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.dll
+C:\Users\Mahima\source\repos\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\ContactApplication.pdb
+C:\ContactApplication\ContactApplication\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Details.cshtml.g.cs
